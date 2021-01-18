@@ -56,7 +56,7 @@ def init():
     loaded_model.load_weights('./Models/EquationModel6.h5')
     loaded_model.compile(loss='categorical_crossentropy',optimizer='rmsprop',metrics=['accuracy'])
     
-    graph=tf.compat.v1.get_default_graph()
+    graph=tf.get_default_graph()
     return loaded_model,graph,sess
 
 global classifier,graph
