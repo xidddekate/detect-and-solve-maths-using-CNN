@@ -8,9 +8,9 @@ The CNN model is trained to identify the Mathematical Equations and solve them u
 <a href="https://crackmykwery.herokuapp.com">Click to see Live Website</a>
 <h3>NOTE : The website GUI is not designed for viewing in Android. Also, website may load slowly as the infra used behind doesn't provide high performance</h3>
 
-Additional Features:
-
-Signup/Login : Users can Signup or login into the webApp
+Additional Features/sections:
+<br>
+Signup/Login : Users can Signup or login into the webApp<br>
 Practice Section : Users can do practice with maths and learn...
 
 
