@@ -8,11 +8,6 @@ The CNN model is trained to identify the Mathematical Equations and solve them u
 <a href="https://crackmykwery.herokuapp.com">Click to see Live Website</a>
 <h3>NOTE : The website GUI is not designed for viewing in Android. Also, website may load slowly as the infra used behind doesn't provide high performance</h3>
 
-Additional Features/sections:
-<br>
-Signup/Login : Users can Signup or login into the webApp<br>
-Practice Section : Users can do practice with maths and learn...
-
 
 
 # Here's Proof of concept
@@ -25,3 +20,10 @@ Now, hit Upload Button to get the solution of Equation.
 
 
 ![alt text](https://github.com/xidddekate/detect-and-solve-maths-using-CNN/blob/main/static/assets/images/Screenshot(41).png?raw=true)
+
+
+
+# Additional Features/sections:
+<br>
+<h3>Signup/Login : </h3>Users can Signup or login into the webApp<br>
+<h3>Practice Section : </h3>Users can do practice with maths and learn...
