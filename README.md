@@ -10,7 +10,7 @@ The CNN model is trained to identify the Mathematical Equations and solve them u
 # Here's Proof of concept
 
 Simply draw or upload image containing mathematical expression
-![alt text](https://github.com/xidddekate/detect-and-solve-maths-using-CNN/static/assets/images/Screenshot\ (40).png?raw=true)
+![alt text](https://github.com/xidddekate/detect-and-solve-maths-using-CNN/static/assets/images/Screenshot(40).png?raw=true)
 
 Now, hit Upload Button to get the solution of Equation.
-![alt text](https://github.com/xidddekate/detect-and-solve-maths-using-CNN/static/assets/images/Screenshot\ (41).png?raw=true)
+![alt text](https://github.com/xidddekate/detect-and-solve-maths-using-CNN/static/assets/images/Screenshot(41).png?raw=true)
