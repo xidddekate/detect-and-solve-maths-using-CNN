@@ -22,7 +22,7 @@ Now, hit Upload Button to get the solution of Equation.
 ![alt text](https://github.com/xidddekate/detect-and-solve-maths-using-CNN/blob/main/static/assets/images/Screenshot(41).png?raw=true)
 
 
-
+<br><br>
 # Additional Features/sections:
 <br>
 <h3>Signup/Login : </h3>Users can Signup or login into the webApp<br>
